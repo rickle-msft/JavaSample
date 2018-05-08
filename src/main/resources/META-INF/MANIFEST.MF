@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: netty-codec-http-4.1.23.Final.jar jackson-dataformat-xml-2
+ .8.11.jar azure-storage-blob-10.0.0-Preview.jar reactive-streams-1.0.
+ 2.jar client-runtime-2.0.0-beta2.jar netty-common-4.1.23.Final.jar sl
+ f4j-api-1.7.12.jar jackson-annotations-2.8.0.jar netty-resolver-4.1.2
+ 3.Final.jar netty-handler-4.1.23.Final.jar azure-annotations-1.2.0.ja
+ r jackson-module-jaxb-annotations-2.8.11.jar azure-keyvault-core-1.0.
+ 0.jar netty-transport-4.1.23.Final.jar jackson-databind-2.8.11.jar ne
+ tty-buffer-4.1.23.Final.jar rxjava-2.1.12.jar commons-lang3-3.4.jar j
+ ackson-datatype-jsr310-2.8.11.jar netty-codec-4.1.23.Final.jar stax2-
+ api-3.1.4.jar guava-20.0.jar azure-storage-7.0.0.jar woodstox-core-5.
+ 0.3.jar jackson-core-2.6.0.jar
+Main-Class: Main
+
